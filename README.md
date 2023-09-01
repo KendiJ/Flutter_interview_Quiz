@@ -36,3 +36,24 @@
 
 * Clean Architecture
 - Clean Architecture is an architectural pattern that enforces separation of concerns and dependency inversion principles. It divides the app into different layers such as presentation, domain, and data, each with its own responsibilities. Clean Architecture is not specific to Flutter but can be implemented in Flutter apps.
+
+
+# 
+
+# Design Pattern aprroaches 
+- Design patterns are general reusable solutions to common software design problems. They provide proven ways to structure code, organize components, and handle interactions between different parts of your application. Design patterns focus on improving the overall architecture, maintainability, and scalability of your codebase. 
+- Some common design patterns include Singleton, Factory Method, Observer, Composite, and more. These patterns are applicable to various aspects of software development beyond just state management.
+
+#
+
+# State Management 
+- This refers to techniques used to manage the UI's state and keep it in sync with the underlying data.
+- there are different techniques of managing state in Flutter, like:
+    > setState()
+    > BloC 
+    > Redux
+    > Riverpod
+
+#
+
+#
